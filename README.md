@@ -132,7 +132,7 @@ siddhant = {
 
 ## 📌 Also Explore
 
-- 🤖 **[claude-skills-collection](https://github.com/csiddhant796-blip/claude-skills-collection)** — 111+ Claude agent skills for real-world automation
+- 🤖 **[claude-skills-collection](https://github.com/csiddhant796-blip/claude-skills-collection)** — 111+ Claude agent skills for real-world automation+6 Indian Financial Skills
 - 🌐 **[Portfolio](https://csiddhant796-blip.github.io-)** — Projects, resume & more
 
 ---
